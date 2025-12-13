@@ -1,3 +1,5 @@
+package dev.cocaud.aoc.day1
+
 class Day1 extends App {
   val inputFileName: os.Path = os.pwd / "../inputs/day1"
 

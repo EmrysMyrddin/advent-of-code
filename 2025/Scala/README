@@ -1,0 +1,7 @@
+## How to run
+
+```
+sbt runMain dev.cocaud.aoc.dayX.DayX	
+```
+
+Some days have variants (like day 7, it has an imperative and array based solution, and a more function and iterator based one)

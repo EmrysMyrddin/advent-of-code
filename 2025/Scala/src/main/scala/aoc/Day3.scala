@@ -1,3 +1,5 @@
+package dev.cocaud.aoc.day3
+
 import scala.annotation.tailrec
 class Day3 extends App {
 

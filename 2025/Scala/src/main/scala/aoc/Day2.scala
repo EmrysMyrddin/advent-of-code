@@ -1,3 +1,5 @@
+package dev.cocaud.aoc.day2
+
 import scala.util.Try
 import scala.math.pow
 
